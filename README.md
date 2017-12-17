@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+Build a rails app that uses postgres
 
-* System dependencies
+create a BLOG that can do full CRUD
 
-* Configuration
+Create at least 4 pages and a nav bar to all relevant pages.
 
-* Database creation
+Install and use bootstrap on at least one element
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+install devise and peter gate for user and admins
